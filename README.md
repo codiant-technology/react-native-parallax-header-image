@@ -3,7 +3,8 @@
   <p align="center">
    <img  width="300" height="450"  src="/Screenshot_1613741272.png">
   </p>
-  ## React Native Parallex Image
+  
+## React Native Parallex Image
   
   It provides a parallax header view with an input and elegant image animation.
   
