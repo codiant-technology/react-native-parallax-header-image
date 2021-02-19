@@ -1,8 +1,8 @@
 # Parallax header with image animation
      
-     <p align="center">
-     <img  width="200" height="400"  src="/Screenshot_1613741272.png">
-    </p>
+  <p align="center">
+   <img  width="300" height="450"  src="/Screenshot_1613741272.png">
+  </p>
 ### Usage
 
 > It provides a parallax header view with an input and elegant image animation.
