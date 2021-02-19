@@ -3,10 +3,17 @@
   <p align="center">
    <img  width="300" height="450"  src="/Screenshot_1613741272.png">
   </p>
+  ## React Native Hyper Pay (Only for Android)
   
-### Usage
+  It provides a parallax header view with an input and elegant image animation.
+  
+### Installation
 
-> It provides a parallax header view with an input and elegant image animation.
+`$ react-native-parallax-header-image`
+
+Or
+
+`$ react-native-parallax-header-image`
 
 ### Example
 
