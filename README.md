@@ -1,9 +1,8 @@
 # Parallax header with image animation
-
-
-<img src="/Screenshot_1613741272.png"
-     alt="Markdown Monster icon"
-     style="float: left; width:200; height:350; margin-right: 10px;" />
+     
+     <p align="center">
+<img  width="200" height="400"  src="/Screenshot_1613741272.png">
+  </p>
 ### Usage
 
 > It provides a parallax header view with an input and elegant image animation.
